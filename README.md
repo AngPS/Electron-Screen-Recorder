@@ -1,5 +1,7 @@
 # Electron-Screen_Recorder
 A screen recorder deployed with electron using node.js, javascript and html
+
+
 **This program requires node.js installed in your computer to run**
 
 ## How to run
